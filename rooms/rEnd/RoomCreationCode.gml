@@ -1,0 +1,1 @@
+global.touchControlsVisible = 0;
